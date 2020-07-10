@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe9f595f-b73f-42c7-ad79-d19427b4f277" name="119.45.48.246" url="http://119.45.48.246">
+        <fileTransfer rootFolder="/usr/share/nginx/html/web/cashfollow" accessType="FTPS" host="119.45.48.246" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
